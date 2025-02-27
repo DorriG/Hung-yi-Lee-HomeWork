@@ -1,2 +1,6 @@
 # Hung-yi-Lee-HomeWork
-Try to learn and understand every detail as much as possible
+我尝试去尽可能的学习和理解李宏毅教授的课程内容
+
+对于每次作业，提供colab可以一键运行的代码
+
+巩固基础，为未来长期从事AI做好准备
