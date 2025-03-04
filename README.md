@@ -16,4 +16,4 @@
   
 - [x] [Homework7-Bert-Fine_tuning](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/cbcae5619698037b42ad55f2b4a61ea2dc3058fe/ML2021spring/HW07)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW07/HW07.ipynb)
       
-- [x] [Homework12-Reinforcement_learning](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/b57ba3e1666ad2479aac0e1cc1766a267ffad606/ML2021spring/HW12)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW012/HW012_ZH.ipynb))
+- [x] [Homework12-Reinforcement_learning](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/b57ba3e1666ad2479aac0e1cc1766a267ffad606/ML2021spring/HW12)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW012/HW012_ZH.ipynb)
