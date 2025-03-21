@@ -13,6 +13,7 @@
 ## :rocket: 2021MLSpring
 - [x] [Homework1-Regression](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2021spring/HW01) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW01/HW01.ipynb)
 
+- [x] [Homework1-Regression](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2021spring/HW02) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW02/HW02.ipynb)
   
 - [x] [Homework7-Bert-Fine_tuning](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2021spring/HW07)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW07/HW07.ipynb)
 
