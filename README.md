@@ -21,3 +21,10 @@
       
 - [x] [Homework12-Reinforcement_learning](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2021spring/HW12)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW012/HW012_ZH.ipynb)
 
+## :rocket: GenerativeAI2024spring
+- [x] [Homework10-Stable Diffusion Fine-tuning](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/GenerativeAI2024spring/HW10) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/GenerativeAI2024spring/HW10/GenAI_HW10.ipynb)
+
+## :rocket: 2025MLSpring
+### :memo: 版本1：是原始作业，没有答案的需要自己思考动手编写代码完善
+- [x] [Homework1-AI Agent1 RAG](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/mlhw1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW01/mlhw1.ipynb)
+### :memo: 版本2：已经完成作业的完整版本
