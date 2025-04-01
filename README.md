@@ -24,6 +24,7 @@
 - [x] [Homework12-Reinforcement_learning](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2021spring/HW12)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW012/HW012_ZH.ipynb)
 
 ## :rocket: GenerativeAI2024spring
+- [x] [Homework7-Understanding what AI is thinking](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/GenerativeAI2024spring/HW07) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/GenerativeAI2024spring/HW07/GenAI-HW7.ipynb)
 - [x] [Homework10-Stable Diffusion Fine-tuning](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/GenerativeAI2024spring/HW10) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/GenerativeAI2024spring/HW10/GenAI_HW10.ipynb)
 
 ## :rocket: 2025MLSpring
