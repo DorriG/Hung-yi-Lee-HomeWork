@@ -21,7 +21,7 @@
 
 - [x] [Homework9-ExplainbelAI](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2021spring/HW09)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW09/HW09.ipynb)
       
-- [x] [Homework12-Reinforcement_learning](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2021spring/HW12)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW012/HW012_ZH.ipynb)
+- [x] [Homework12-Reinforcement_learning](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2021spring/HW12)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2021spring/HW12/HW12_ZH.ipynb)
 
 ## :rocket: GenerativeAI2024spring
 - [x] [Homework3-以AI搭建自己的应用](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/GenerativeAI2024spring/HW03) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/GenerativeAI2024spring/HW03/HW03.ipynb)
