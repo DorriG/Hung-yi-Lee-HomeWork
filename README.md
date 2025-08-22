@@ -30,7 +30,7 @@
 
 ## :rocket: 2025MLSpring
 ### :memo: 版本1：是原始作业，没有答案的需要自己思考动手编写代码完善
-- [x] [Homework1-AI Agent1 RAG](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/mlhw1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW01/mlhw1.ipynb)
+- [x] [Homework1-AI Agent1 RAG](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW01/mlhw1) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW01/mlhw1.ipynb)
 ### :memo: 版本2：已经完成作业的完整版本
 
 # 本地环境下运行作业
