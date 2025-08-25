@@ -34,11 +34,11 @@
 
 - [x] [Homework2-AI Agent2](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW02/ML2025Spring_hw2_public) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW02/ML2025Spring_hw2_public.ipynb)
 
-- [x] [Homework Training Transformer](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW04/ML2025_Spring_HW4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW04/ML2025_Spring_HW4.ipynb)
+- [x] [Homework4 Training Transformer](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW04/ML2025_Spring_HW4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW04/ML2025_Spring_HW4.ipynb)
 
-### :memo: 版本2：已经完成作业的完整版本
+### :memo: 版本2：已经完成作业的版本,附加了作业解释
 
-- [x] [Homework Training Transformer](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW04/ML2025_Spring_HW4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW04/ML2025_Spring_HW4.ipynb)
+- [x] [Homework4 Training Transformer](https://github.com/luoclab/Hung-yi-Lee-HomeWork/tree/main/ML2025spring/HW04/ML2025_Spring_HW4) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luoclab/Hung-yi-Lee-HomeWork/blob/main/ML2025spring/HW04/ML2025_Spring_HW4.ipynb)
 
 # 本地环境下运行作业
 对于部分无法解决版本问题的作业，或者我认为有必要放到本地环境运行的作业，我将提供本地运行的版本（本地是指在有卡的linux服务器上）
